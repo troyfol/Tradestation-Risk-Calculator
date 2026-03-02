@@ -2,6 +2,8 @@
 
 A lightweight Windows desktop calculator for active traders. Given an entry price, stop loss, and dollar risk, Trade Solver computes position size, cost basis, and profit/loss at configurable R-multiple targets. It also supports **Smart Click** — click directly on a price in TradeStation (or any charting platform) and the app reads it via OCR, filling in Entry and Stop automatically.
 
+<img width="276" height="305" alt="solver_sample" src="https://github.com/user-attachments/assets/dbef4c87-1700-44d1-8b73-b8389673acf0" />
+
 ---
 
 ## Features
